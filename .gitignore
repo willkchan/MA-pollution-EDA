@@ -1,0 +1,2 @@
+# To ignore all raw folder data that are too large for pushing
+/data/raw/*
